@@ -71,21 +71,6 @@ pip install matplotlib numpy
 python Main.py
 ```
 
----
-
-## 🧮 Verwendete Formeln
-
-- **Gravitationskraft**:  
-  \[ \vec{F}_g = m \cdot \vec{g} \]
-- **Luftwiderstand**:  
-  \[ \vec{F}_d = -\frac{1}{2} \cdot \rho \cdot c_d \cdot A \cdot v^2 \cdot \hat{v} \]
-- **Magnus-Kraft**:  
-  \[ \vec{F}_m = k \cdot \rho \cdot A \cdot (\vec{\omega} \times \vec{v}) \]
-- **Reibung bei Bodenkontakt**:  
-  \[ \vec{F}_r = -\mu \cdot F_n \cdot \hat{v} \]
-
----
-
 ## 🧑‍🎓 Autor
 
 **Eyüphan Bayram**  
